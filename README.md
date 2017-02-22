@@ -1,4 +1,4 @@
-Project Assignment #1 for CPSC 335 (CSUF) - Algorithms
+PROJECT ASSIGNMENT #1 - CPSC 335 (CSUF): ALGORITHMS
 
 PROJECT GROUP MEMBERS:
 - Justin Shelley
@@ -8,15 +8,15 @@ BUGS:
 - None
 
 COMPLETED:
-- Algorithm for Left Right Shift
-- Algorithm for Lawnmower Shift
-- Provided Analysis.pdf file explaining algorithm analysis
+- Algorithm for Left-to-Right shift
+- Algorithm for Lawnmower shift
+- Provided Analysis.pdf file for algorithm analysis
 - Provided README.txt file
 
 NOT COMPLETED:
 - None
 
-USE OF THE PROGRAM:
+MISC INFORMATION:
 - Created with Visual Studio 2016 Professional
-- Writtin in C++
-- Run using Visual Studio 2016 Professional
+- Writtin in C++ on Microsoft Windows 10
+- Compiled using Visual Studio 2016 Professional
