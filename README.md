@@ -12,6 +12,7 @@ COMPLETED:
 - Algorithm for Lawnmower shift
 - Provided Analysis.pdf file for algorithm analysis
 - Provided README.txt file
+- Provided output files for algorithms
 
 NOT COMPLETED:
 - None
